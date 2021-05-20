@@ -1,3 +1,2 @@
 # Hi
-# Added
-# git remote 
+# Merge conflict
